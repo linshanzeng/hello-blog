@@ -1,7 +1,7 @@
 module.exports = {
     title: '我的博客',
     description: '记录和回顾常用开发知识',
-    base: '/life',
+    base: '/blog',
     theme: 'reco',
     locales: {
         '/': {
