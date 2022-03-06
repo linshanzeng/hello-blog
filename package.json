@@ -21,5 +21,8 @@
   "devDependencies": {
     "vuepress": "^1.9.7",
     "vuepress-theme-reco": "^1.6.11"
+  },
+  "dependencies": {
+    "vuepress-plugin-mygitalk": "^1.0.5"
   }
 }
