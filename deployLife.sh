@@ -3,6 +3,11 @@
 # 确保脚本抛出遇到的错误
 set -e
 
+# 指定config.js
+cd docs/.vuepress
+cp configLife.js config.js
+cd -
+
 # 生成静态文件
 npm run build
 
