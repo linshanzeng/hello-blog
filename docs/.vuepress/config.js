@@ -1,7 +1,7 @@
 module.exports = {
     title: '我的博客',
     description: '记录和回顾常用开发知识',
-    base: '/life',
+    base: '/blog',
     theme: 'reco',
     locales: {
         '/': {
@@ -18,7 +18,7 @@ module.exports = {
                 items: [
                     { text: '导航', link: 'https://linshanzeng.github.io/' },
                     { text: '生活', link: 'https://linshanzeng.github.io/life' },
-                    { text: '博客', link: 'https://linshanzeng.github.io/blog' },
+                    { text: '博客', link: 'https://linshanzeng.github.io/life' },
                 ]
             }
         ],
