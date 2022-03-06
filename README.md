@@ -2,7 +2,13 @@
 
 ## 简介
 
-该项目实现一键上传部署，部署位置[linshanzeng的博客](https://linshanzeng.github.io/blog/)
+该项目实现一键上传部署
+
+[导航](https://linshanzeng.github.io/blog/)
+
+[生活](https://linshanzeng.github.io/life/)
+
+[博客](https://linshanzeng.github.io/blog/)
 
 ## 运行帮助
 
