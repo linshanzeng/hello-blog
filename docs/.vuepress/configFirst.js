@@ -17,6 +17,7 @@ module.exports = {
                 items: [
                     { text: '导航', link: 'https://linshanzeng.github.io/' },
                     { text: '生活', link: 'https://linshanzeng.github.io/life' },
+                    { text: '博客', link: 'https://linshanzeng.github.io/life' },
                 ]
             }
         ],
