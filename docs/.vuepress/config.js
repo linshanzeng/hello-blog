@@ -1,7 +1,7 @@
 module.exports = {
     title: '我的博客',
     description: '记录和回顾常用开发知识',
-    base: '/blog',
+    base: '/',
     theme: 'reco',
     locales: {
         '/': {
@@ -10,6 +10,7 @@ module.exports = {
     },
     themeConfig: {
         subSidebar: 'auto',
+        lastUpdated: '上次更新', // string | boolean
         nav: [
             { text: '首页', link: '/' },
             { 
