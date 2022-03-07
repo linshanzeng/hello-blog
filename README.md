@@ -268,13 +268,15 @@
 
 ## 关联链接
 
-[linshanzeng的博客](https://linshanzeng.github.io/blog/)
-
-[linshanzeng的博客Github（同步上传生成的内容）](https://github.com/linshanzeng/blog)
+[linshanzeng的导航](https://linshanzeng.github.io/)
+[linshanzeng的博客](https://linshanzeng.github.io/blog)
+[linshanzeng的生活](https://linshanzeng.github.io/life)
 
 ## 参考链接
 
-[搭建博客](https://github.com/mqyqingfeng/Blog/issues/235)
+[用 VuePress + Github Pages 搭建博客](https://github.com/mqyqingfeng/Blog/issues/235)
+
+[蝉时雨の笔记](https://chanshiyu.gitbook.io/blog/shi-yu/2019/15-no)
 
 [如何正确使用淘宝npm镜像](https://segmentfault.com/a/1190000027083723)
 
@@ -282,4 +284,6 @@
 
 [Markdown错误](https://zhuanlan.zhihu.com/p/68015264)
 
-[蝉时雨の笔记](https://github.com/chanshiyucx/blog/blob/master/%E6%99%82%E9%9B%A8/2019/15-%E4%B8%80%E7%A7%8D%E4%BC%98%E9%9B%85%E3%81%AE%E7%AC%94%E8%AE%B0%E6%96%B9%E5%BC%8F.md)
+[VuePress集成Gitalk](https://github.com/JoeyBling/vuepress-plugin-mygitalk)
+
+[Gitalk配置使用教程](https://iochen.com/post/use-gitalk-in-hexo/)
