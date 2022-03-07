@@ -1,5 +1,5 @@
 module.exports = {
-    title: '我的博客', // #target05
+    title: "个人收藏夹", // #target05
     description: '记录和回顾常用开发知识',
     base: "/", // #target01
     theme: 'reco',
