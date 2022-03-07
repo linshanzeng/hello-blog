@@ -22,10 +22,9 @@ sed -i -e '/#target03 /c\
 sed -i -e '/target04: /c\
                     clientSecret: "9cc0245b024b4f67740ebe5293bc6141ef2368d5", // #target04
 ' config.js
-cd -                    
 # 标题
 sed -i -e '/#target05/c\
-    title: '博客', // #target05
+    title: "博客", // #target05
 ' config.js
 cd -
 

@@ -1,7 +1,7 @@
 module.exports = {
     title: "生活", // #target05
     description: '记录和回顾常用开发知识',
-    base: "/life", // #target01
+    base: "/blog", // #target01
     theme: 'reco',
     locales: {
         '/': {
@@ -26,7 +26,7 @@ module.exports = {
         sidebar: [
             {
                 title: 'README',
-                path: "/life", // #target02
+                path: "/blog", // #target02
                 collapsable: false, // 折叠
                 // children: [
                 //     { title: 'HTML', path: '/daily/HTML' }
