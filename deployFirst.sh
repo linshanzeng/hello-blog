@@ -11,19 +11,23 @@ cd docs/.vuepress
 #    base: "/",
 #' config.js
 sed -i -e '/#target01/c\
-    base: "/",
+    base: "/", // #target01
 ' config.js
 # 修改首页
 sed -i -e '/#target02/c\
-                path: "/first",
+                path: "/first", // #target02
 ' config.js
 # clientID
 sed -i -e '/#target03 /c\
-                    clientID: "7d320e2625be17b796f6",
+                    clientID: "7d320e2625be17b796f6", // #target03
 ' config.js
 # 修改clientSecret
 sed -i -e '/#target04/c\
-                    clientSecret: "f95bc1c1c0e2b09aa590ed3e361a10c0bfc044f6",
+                    clientSecret: "f95bc1c1c0e2b09aa590ed3e361a10c0bfc044f6", // #target04
+' config.js
+# 修改标题
+sed -i -e '/#target05/c\
+    title: "个人收藏夹", // #target05
 ' config.js
 cd -
 

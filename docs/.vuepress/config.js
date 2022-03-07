@@ -1,7 +1,7 @@
 module.exports = {
-    title: '我的博客',
+    title: "个人收藏夹", // #target05
     description: '记录和回顾常用开发知识',
-    base: "/",
+    base: "/", // #target01
     theme: 'reco',
     locales: {
         '/': {
@@ -26,18 +26,18 @@ module.exports = {
         sidebar: [
             {
                 title: 'README',
-                path: "/first",
+                path: "/first", // #target02
                 collapsable: false, // 折叠
                 // children: [
-                //     { title: "HTML", path: "/daily/HTML" }
+                //     { title: 'HTML', path: '/daily/HTML' }
                 // ],
             },
             {
-                title: "前端",
+                title: '前端',
                 path: '/daily',
                 collapsable: false, // 折叠
                 children: [
-                    { title: "HTML", path: "/daily/HTML" }
+                    { title: 'HTML', path: '/daily/HTML' }
                 ],
             }
         ]
@@ -52,9 +52,9 @@ module.exports = {
                 // Gitalk配置
                 gitalk: {
                     // GitHub Application Client ID.
-                    clientID: "020331372202cd5df3a9", // #target03
+                    clientID: '020331372202cd5df3a9', // #target03
                     // GitHub Application Client Secret.
-                    clientSecret: "f95bc1c1c0e2b09aa590ed3e361a10c0bfc044f6",
+                    clientSecret: "f95bc1c1c0e2b09aa590ed3e361a10c0bfc044f6", // #target04
                     // GitHub repository. 存储评论的 repo
                     repo: 'gitalk',
                     // GitHub repository 所有者，可以是个人或者组织。

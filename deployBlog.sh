@@ -8,19 +8,24 @@ cd docs/.vuepress
 
 # 修改项目
 sed -i -e '/#target01/c\
-    base: "/blog",
+    base: "/blog", // #target01
 ' config.js
 # 修改首页
 sed -i -e '/#target02/c\
-                path: "/blog",
+                path: "/blog", // #target02
 ' config.js
 # clientID
 sed -i -e '/#target03 /c\
-                    clientID: "020331372202cd5df3a9",
+                    clientID: "020331372202cd5df3a9", // #target03
 ' config.js
 # 修改clientSecret
-sed -i -e '/#target04/c\
-                    clientSecret: "9cc0245b024b4f67740ebe5293bc6141ef2368d5",
+sed -i -e '/target04: /c\
+                    clientSecret: "9cc0245b024b4f67740ebe5293bc6141ef2368d5", // #target04
+' config.js
+cd -                    
+# 标题
+sed -i -e '/#target05/c\
+    title: '博客', // #target05
 ' config.js
 cd -
 
