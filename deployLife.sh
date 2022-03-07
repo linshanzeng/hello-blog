@@ -15,11 +15,11 @@ sed -i -e '/#target02/c\
                 path: "/life", // #target02
 ' config.js
 # clientID
-sed -i -e '/#target03 /c\
+sed -i -e '/#target03/c\
                     clientID: "336fa3e6ffb554c5a3b2", // #target03
 ' config.js
 # 修改clientSecret
-sed -i -e '/#target04 /c\
+sed -i -e '/#target04/c\
                     clientSecret: "5cf49959b1c8f68d445bd5df9f3699c975fe86fc", // #target04
 ' config.js
 # 标题

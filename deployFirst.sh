@@ -18,7 +18,7 @@ sed -i -e '/#target02/c\
                 path: "/first", // #target02
 ' config.js
 # clientID
-sed -i -e '/#target03 /c\
+sed -i -e '/#target03/c\
                     clientID: "7d320e2625be17b796f6", // #target03
 ' config.js
 # 修改clientSecret
