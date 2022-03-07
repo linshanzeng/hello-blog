@@ -1,7 +1,7 @@
 module.exports = {
     title: '我的博客',
     description: '记录和回顾常用开发知识',
-    base: "/life",
+    base: "/blog",
     theme: 'reco',
     locales: {
         '/': {
@@ -48,9 +48,9 @@ module.exports = {
                 // Gitalk配置
                 gitalk: {
                     // GitHub Application Client ID.
-                    clientID: "336fa3e6ffb554c5a3b2",
+                    clientID: "020331372202cd5df3a9",
                     // GitHub Application Client Secret.
-                    clientSecret: "5cf49959b1c8f68d445bd5df9f3699c975fe86fc",
+                    clientSecret: "9cc0245b024b4f67740ebe5293bc6141ef2368d5",
                     // GitHub repository. 存储评论的 repo
                     repo: 'gitalk',
                     // GitHub repository 所有者，可以是个人或者组织。
