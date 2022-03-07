@@ -8,6 +8,12 @@ cd docs/.vuepress
 sed -i '' '4c\
     base: "/life",
 ' config.js
+sed -i '' '51c\
+                    clientID: "336fa3e6ffb554c5a3b2",
+' config.js
+sed -i '' '53c\
+                    clientSecret: "5cf49959b1c8f68d445bd5df9f3699c975fe86fc",
+' config.js
 cd -
 
 # 生成静态文件
