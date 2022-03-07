@@ -26,6 +26,10 @@ sed -i -e '/target04/c\
 sed -i -e '/#target05/c\
     title: "博客", // #target05
 ' config.js
+# 修改首页
+sed -i -e '/#target06/c\
+            { text: "首页", link: "/blog" }, // #target06
+' config.js
 cd -
 
 # 生成静态文件
