@@ -2,7 +2,7 @@
 
 ## 简介
 
-该项目实现一键上传部署
+该项目实现一键上传部署单个或多个静态资源项目
 
 [导航](https://linshanzeng.github.io/blog/)
 
