@@ -7,19 +7,19 @@ set -e
 cd docs/.vuepress
 
 # 修改项目
-sed -i '' '4c\
+sed -i -e '/#target01/c\
     base: "/life",
 ' config.js
 # 修改首页
-sed -i '' '29c\
+sed -i -e '/#target02/c\
                 path: "/",
 ' config.js
 # clientID
-sed -i '' '55c\
+sed -i -e '/#target03 /c\
                     clientID: "336fa3e6ffb554c5a3b2",
 ' config.js
 # 修改clientSecret
-sed -i '' '57c\
+sed -i -e '/#target04 /c\
                     clientSecret: "5cf49959b1c8f68d445bd5df9f3699c975fe86fc",
 ' config.js
 cd -
