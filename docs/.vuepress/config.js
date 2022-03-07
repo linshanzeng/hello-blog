@@ -1,7 +1,7 @@
 module.exports = {
-    title: "博客", // #target05
+    title: "个人收藏夹", // #target05
     description: '记录和回顾常用开发知识',
-    base: "/blog", // #target01
+    base: "/", // #target01
     theme: 'reco',
     locales: {
         '/': {
@@ -26,7 +26,7 @@ module.exports = {
         sidebar: [
             {
                 title: 'README',
-                path: "/blog", // #target02
+                path: "/first", // #target02
                 collapsable: false, // 折叠
                 // children: [
                 //     { title: 'HTML', path: '/daily/HTML' }
