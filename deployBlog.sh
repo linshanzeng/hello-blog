@@ -5,13 +5,21 @@ set -e
 
 # 指定config.js
 cd docs/.vuepress
+
+# 修改项目
 sed -i '' '4c\
     base: "/blog",
 ' config.js
-sed -i '' '51c\
+# 修改首页
+sed -i '' '29c\
+                path: "/",
+' config.js
+# clientID
+sed -i '' '55c\
                     clientID: "020331372202cd5df3a9",
 ' config.js
-sed -i '' '53c\
+# 修改clientSecret
+sed -i '' '57c\
                     clientSecret: "9cc0245b024b4f67740ebe5293bc6141ef2368d5",
 ' config.js
 cd -

@@ -1,7 +1,7 @@
 module.exports = {
     title: '我的博客',
     description: '记录和回顾常用开发知识',
-    base: "/blog",
+    base: "/",
     theme: 'reco',
     locales: {
         '/': {
@@ -26,7 +26,11 @@ module.exports = {
         sidebar: [
             {
                 title: 'README',
-                path: '/'
+                path: "/first",
+                collapsable: false, // 折叠
+                // children: [
+                //     { title: "HTML", path: "/daily/HTML" }
+                // ],
             },
             {
                 title: "前端",
@@ -48,9 +52,9 @@ module.exports = {
                 // Gitalk配置
                 gitalk: {
                     // GitHub Application Client ID.
-                    clientID: "020331372202cd5df3a9",
+                    clientID: "7d320e2625be17b796f6",
                     // GitHub Application Client Secret.
-                    clientSecret: "9cc0245b024b4f67740ebe5293bc6141ef2368d5",
+                    clientSecret: "f95bc1c1c0e2b09aa590ed3e361a10c0bfc044f6",
                     // GitHub repository. 存储评论的 repo
                     repo: 'gitalk',
                     // GitHub repository 所有者，可以是个人或者组织。
