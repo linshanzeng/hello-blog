@@ -5,7 +5,9 @@ set -e
 
 # 指定config.js
 cd docs/.vuepress
-cp configLife.js config.js
+sed -i '' '4c\
+    base: "/life",
+' config.js
 cd -
 
 # 生成静态文件
