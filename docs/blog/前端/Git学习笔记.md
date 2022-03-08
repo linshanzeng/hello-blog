@@ -448,6 +448,7 @@ date: 2022-03-08
 ## 8. 关联链接
 
 [hello-git](https://github.com/linshanzeng/hello-git)
+[hello-git2](https://github.com/linshanzeng/hello-git2)
 
 ## 9. 参考链接
 
