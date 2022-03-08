@@ -30,6 +30,10 @@ sed -i -e '/#target05/c\
 sed -i -e '/#target06/c\
             { text: "", link: "/blog" }, // #target06
 ' config.js
+# 修改首页标题
+sed -i -e '/#target07/c\
+                title: "今日事，今日必",  // #target07
+' config.js
 cd -
 
 # 生成静态文件
