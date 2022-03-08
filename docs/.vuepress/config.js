@@ -1,7 +1,7 @@
 module.exports = {
     title: "生活", // #target05
     description: '记录和回顾常用开发知识',
-    base: "/life", // #target01
+    base: "/life/", // #target01
     theme: 'reco',
     locales: {
         '/': {
