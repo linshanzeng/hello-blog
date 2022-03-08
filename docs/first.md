@@ -27,3 +27,9 @@ date: 2022-03-08
 - [**chanshiyucx**](https://chanshiyu.gitbook.io/blog) 前端
 - [**jiqiangzhu**](https://jiqiangzhu.github.io/) 前端
 - [**awesome-bookmarks**](https://panjiachen.github.io/awesome-bookmarks) 综合
+
+## 官方网站
+
+- [**Node.js官方英文指南**](https://nodejs.dev/learn) Node.js官方英文指南
+- [**Node.js中文指南**](http://nodejs.cn/learn) Node.js中文指南
+- [**VuePress官方中文指南**](https://vuepress.vuejs.org/zh/guide/) VuePress官方中文指南
