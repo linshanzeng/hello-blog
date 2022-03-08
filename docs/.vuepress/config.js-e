@@ -28,6 +28,7 @@ module.exports = {
                 collapsable: false, // 折叠
                 children: [
                     { title: 'Git学习笔记', path: '/blog/前端/Git学习笔记' }, 
+                    { title: '博客搭建', path: '/blog/前端/博客搭建' }, 
                 ],
             }
             // #target07
