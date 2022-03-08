@@ -12,7 +12,7 @@ module.exports = {
         subSidebar: 'auto',
         lastUpdated: '上次更新', // string | boolean
         nav: [
-            { text: "首页", link: "/blog" }, // #target06
+            { text: "首页", link: "/life" }, // #target06
             { 
                 text: '链接', 
                 items: [
