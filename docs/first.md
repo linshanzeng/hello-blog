@@ -15,6 +15,7 @@ date: 2022-03-08
 
 ## 优秀的个人网站👍
 
-- [**小弋の阅览室**](https://lovelijunyi.gitee.io/blog/) [**小弋の生活馆**](https://lovelijunyi.gitee.io/) 小弋的生活技巧和心得
-- [**awesome-bookmarks**](https://panjiachen.github.io/awesome-bookmarks/) PanJiaChen的个人收藏夹
-- [**chanshiyucx**](https://github.com/chanshiyucx) 蝉時雨的博客
+- [**小弋の阅览室**](https://lovelijunyi.gitee.io/blog/) [**小弋の生活馆**](https://lovelijunyi.gitee.io/) 前端
+- [**awesome-bookmarks**](https://panjiachen.github.io/awesome-bookmarks/) 综合
+- [**chanshiyucx**](https://github.com/chanshiyucx) 前端
+- [**試毅-思伟_技术笔记**](https://zhousiwei.gitee.io/ibooks/opensource) 前端
