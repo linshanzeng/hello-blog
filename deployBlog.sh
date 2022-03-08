@@ -6,7 +6,7 @@ set -e
 # 指定config.js
 cd docs/.vuepress
 
-# 修改项目
+# 修改目标网站
 sed -i -e '/#target01/c\
     base: "/blog", // #target01
 ' config.js
