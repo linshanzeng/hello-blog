@@ -7,6 +7,12 @@ date: 2022-03-08
 
 - [**廖雪峰的官方网站**](https://www.liaoxuefeng.com/) 包含Java、Python、JavaScript、区域链、SQL和Git教程
 
+## 自己的网站💪
+
+- [**个人收藏夹**](https://linshanzeng.github.io/)
+- [**生活**](https://linshanzeng.github.io/life/)
+- [**博客**](https://linshanzeng.github.io/blog/)
+
 ## 已付费的网站（心在滴血🩸）
 
 - [**极客时间**](https://time.geekbang.org/dashboard/course) 极客时间-我的课程
