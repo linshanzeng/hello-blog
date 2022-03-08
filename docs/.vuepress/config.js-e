@@ -18,7 +18,7 @@ module.exports = {
         ],
         sidebar: [
             {
-                title: "今日事，今日必",  // #target07
+                title: "看点好玩的",  // #target07
                 path: "/first", // #target02
                 collapsable: false, // 折叠
             },
