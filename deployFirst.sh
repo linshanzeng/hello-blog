@@ -15,7 +15,7 @@ sed -i -e '/#target01/c\
 ' config.js
 # 修改首页
 sed -i -e '/#target02/c\
-                path: "/first", // #target02
+                path: "/first/", // #target02
 ' config.js
 # clientID
 sed -i -e '/#target03/c\

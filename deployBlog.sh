@@ -12,7 +12,7 @@ sed -i -e '/#target01/c\
 ' config.js
 # 修改首页
 sed -i -e '/#target02/c\
-                path: "/blog", // #target02
+                path: "/blog/", // #target02
 ' config.js
 # clientID
 sed -i -e '/#target03/c\
