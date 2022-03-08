@@ -8,7 +8,7 @@ cd docs/.vuepress
 
 # 修改目标网站
 sed -i -e '/#target01/c\
-    base: "/blog", // #target01
+    base: "/blog/", // #target01
 ' config.js
 # 修改首页
 sed -i -e '/#target02/c\
