@@ -11,33 +11,26 @@ module.exports = {
     themeConfig: {
         subSidebar: 'auto',
         lastUpdated: '上次更新', // string | boolean
+        author: 'linshanzeng',
         nav: [
             { text: "", link: "/first" }, // #target06
             { text: 'GitHub', link: 'https://github.com/linshanzeng/hello-blog' },
-            // { 
-            //     text: '链接', 
-            //     items: [
-            //         { text: 'GitHub', link: 'https://github.com/linshanzeng/hello-blog' },
-            //     ]
-            // }
         ],
         sidebar: [
             {
                 title: 'README',
                 path: "/first", // #target02
                 collapsable: false, // 折叠
-                // children: [
-                //     { title: 'HTML', path: '/daily/HTML' }
-                // ],
             },
-            // {
-            //     title: '前端',
-            //     path: '/daily',
-            //     collapsable: false, // 折叠
-            //     children: [
-            //         { title: 'HTML', path: '/daily/HTML' }
-            //     ],
-            // }
+            {
+                title: '前端',
+                path: "/blog/前端/Git学习笔记",
+                collapsable: false, // 折叠
+                children: [
+                    { title: 'Git学习笔记', path: '/blog/前端/Git学习笔记' }, 
+                ],
+            }
+            // #target07
         ],
     },
     plugins: [
