@@ -28,7 +28,7 @@ sed -i -e '/#target05/c\
 ' config.js
 # 修改首页
 sed -i -e '/#target06/c\
-            { text: "首页", link: "/life" }, // #target06
+            { text: "", link: "/life" }, // #target06
 ' config.js
 cd -
 
