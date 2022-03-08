@@ -13,12 +13,11 @@ module.exports = {
         lastUpdated: '上次更新', // string | boolean
         author: 'linshanzeng',
         nav: [
-            { text: "", link: "/blog" }, // #target06
             { text: 'GitHub', link: 'https://github.com/linshanzeng/hello-blog' },
         ],
         sidebar: [
             {
-                title: "写点开心事",  // #target07
+                title: "看点好玩的",  // #target07
                 path: "/blog", // #target02
                 collapsable: false, // 折叠
             },

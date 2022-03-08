@@ -29,10 +29,6 @@ sed -i -e '/#target04/c\
 sed -i -e '/#target05/c\
     title: "个人收藏夹", // #target05
 ' config.js
-# 修改首页
-sed -i -e '/#target06/c\
-            { text: "", link: "/first" }, // #target06
-' config.js
 # 修改首页标题
 sed -i -e '/#target07/c\
                 title: "看点好玩的",  // #target07

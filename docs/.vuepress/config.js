@@ -13,7 +13,6 @@ module.exports = {
         lastUpdated: '上次更新', // string | boolean
         author: 'linshanzeng',
         nav: [
-            { text: "", link: "/blog" }, // #target06
             { text: 'GitHub', link: 'https://github.com/linshanzeng/hello-blog' },
         ],
         sidebar: [

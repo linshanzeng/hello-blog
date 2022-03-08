@@ -26,10 +26,6 @@ sed -i -e '/#target04/c\
 sed -i -e '/#target05/c\
     title: "生活", // #target05
 ' config.js
-# 修改首页
-sed -i -e '/#target06/c\
-            { text: "", link: "/life" }, // #target06
-' config.js
 # 修改首页标题
 sed -i -e '/#target07/c\
                 title: "写点开心事",  // #target07
