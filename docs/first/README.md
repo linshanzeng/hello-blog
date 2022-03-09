@@ -1,7 +1,6 @@
 ---
 title: 网站
 date: 2022-03-08
-#sidebar: false
 permalink: /first
 ---
 

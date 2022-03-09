@@ -38,7 +38,7 @@ module.exports = {
         ],
         sidebar: [
             {
-                title: "写点开心事",  // #target07
+                title: "今日事，今日必",  // #target07
                 path: "/blog/", // #target02
                 collapsable: false, // 折叠
             },
