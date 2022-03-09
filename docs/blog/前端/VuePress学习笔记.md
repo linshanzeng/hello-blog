@@ -297,7 +297,7 @@ Hello!
 |:slug|蛞蝓化文件路径 (不带扩展名)|
 |:regular|VuePress默认的生成永久链接的方式，具体实现看[这里](https://github.com/vuejs/vuepress/blob/master/packages/%40vuepress/shared-utils/src/fileToPath.ts)|
 
-## 参考链接
+## 10. 参考链接
 
 - [**VuePress官方中文指南**](https://vuepress.vuejs.org/zh/guide/)
 - [**Markdown 语法速查表**](https://www.markdown.xyz/cheat-sheet/)

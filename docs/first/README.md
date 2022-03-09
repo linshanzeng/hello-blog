@@ -22,6 +22,7 @@ permalink: /first
 
 ## 优秀的个人网站👍
 
+- [**冴羽的博客**](https://github.com/mqyqingfeng/Blog) 前端
 - [**小弋の阅览室**](https://lovelijunyi.gitee.io/blog) [**小弋の生活馆**](https://lovelijunyi.gitee.io/) 前端
 - [**試毅-思伟_技术笔记**](https://zhousiwei.gitee.io/ibooks/opensource) 前端
 - [**chanshiyucx**](https://chanshiyu.gitbook.io/blog) 前端
