@@ -47,8 +47,3 @@ git push -f git@github.com:linshanzeng/life.git main:main
 
 # 回到docs
 cd -
-
-# 继续上传hello-blog
-git add -A
-git commit -m 'deploy'
-git push -f git@github.com:linshanzeng/hello-blog.git main:main
