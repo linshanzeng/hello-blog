@@ -22,16 +22,20 @@ permalink: /first
 
 ## 优秀的个人网站👍
 
-- [**前端小羊羊**](https://segmentfault.com/blog/runningfyy) 前端
-- [**冴羽的博客**](https://github.com/mqyqingfeng/Blog) 前端
 - [**小弋の阅览室**](https://lovelijunyi.gitee.io/blog) [**小弋の生活馆**](https://lovelijunyi.gitee.io/) 前端
-- [**試毅-思伟_技术笔记**](https://zhousiwei.gitee.io/ibooks/opensource) 前端
 - [**chanshiyucx**](https://chanshiyu.gitbook.io/blog) 前端
-- [**jiqiangzhu**](https://jiqiangzhu.github.io/) 前端
-- [**awesome-bookmarks**](https://panjiachen.github.io/awesome-bookmarks) 综合
+- [**jiqiangzhu**](https://jiqiangzhu.github.io/interview) 前端
+- [**awesome-bookmarks**](https://panjiachen.github.io/awesome-bookmarks/website) 综合
+
+## 有趣的专栏（前端）
+
+- [**前端小羊羊**](https://segmentfault.com/blog/runningfyy)
+- [**冴羽**](https://github.com/mqyqingfeng/Blog#%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA)
+- [**試毅-思伟**](https://zhousiwei.gitee.io/ibooks/opensource)
 
 ## 有趣的文章（前端）
 
+- [**一篇带你用 VuePress + Github Pages 搭建博客**](https://github.com/mqyqingfeng/Blog/issues/235)
 - [**git钩子与自动化部署（上）**](https://segmentfault.com/a/1190000021044092)
 - [**git钩子与自动化部署（下）**](https://segmentfault.com/a/1190000021045220)
 - [**nodejs 如何执行 shell 命令，并把结果实时回显输出？**](https://segmentfault.com/q/1010000023332928)
