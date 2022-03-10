@@ -22,6 +22,7 @@ permalink: /first
 
 ## 优秀的个人网站👍
 
+- [**前端小羊羊**](https://segmentfault.com/blog/runningfyy) 前端
 - [**冴羽的博客**](https://github.com/mqyqingfeng/Blog) 前端
 - [**小弋の阅览室**](https://lovelijunyi.gitee.io/blog) [**小弋の生活馆**](https://lovelijunyi.gitee.io/) 前端
 - [**試毅-思伟_技术笔记**](https://zhousiwei.gitee.io/ibooks/opensource) 前端
@@ -37,3 +38,11 @@ permalink: /first
 - [**VuePress官方中文指南**](https://vuepress.vuejs.org/zh/guide/)
 - [**Markdown 语法速查表**](https://www.markdown.xyz/cheat-sheet/)
 - [**markdownlint**](https://github.com/DavidAnson/markdownlint/blob/v0.25.1/doc/Rules.md)
+
+## 工具类
+
+- [**21款好用的Chrome浏览器插件推荐**](https://www.v1tx.com/post/best-chrome-extensions/)
+
+https://segmentfault.com/q/1010000023332928
+
+https://segmentfault.com/a/1190000021045220
