@@ -30,6 +30,16 @@ permalink: /first
 - [**jiqiangzhu**](https://jiqiangzhu.github.io/) 前端
 - [**awesome-bookmarks**](https://panjiachen.github.io/awesome-bookmarks) 综合
 
+## 有趣的文章（前端）
+
+- [**git钩子与自动化部署（上）**](https://segmentfault.com/a/1190000021044092)
+- [**git钩子与自动化部署（下）**](https://segmentfault.com/a/1190000021045220)
+- [**nodejs 如何执行 shell 命令，并把结果实时回显输出？**](https://segmentfault.com/q/1010000023332928)
+
+## 有趣的文章（其他）
+
+- [**21款好用的Chrome浏览器插件推荐**](https://www.v1tx.com/post/best-chrome-extensions/)
+
 ## 官方/企业网站
 
 - [**Node.js官方英文指南**](https://nodejs.dev/learn) Node.js官方英文指南
@@ -38,11 +48,3 @@ permalink: /first
 - [**VuePress官方中文指南**](https://vuepress.vuejs.org/zh/guide/)
 - [**Markdown 语法速查表**](https://www.markdown.xyz/cheat-sheet/)
 - [**markdownlint**](https://github.com/DavidAnson/markdownlint/blob/v0.25.1/doc/Rules.md)
-
-## 工具类
-
-- [**21款好用的Chrome浏览器插件推荐**](https://www.v1tx.com/post/best-chrome-extensions/)
-
-https://segmentfault.com/q/1010000023332928
-
-https://segmentfault.com/a/1190000021045220
