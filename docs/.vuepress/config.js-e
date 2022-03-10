@@ -50,6 +50,7 @@ module.exports = {
                     { title: 'Git学习笔记', path: '/blog/前端/Git学习笔记' }, 
                     { title: '博客搭建', path: '/blog/前端/博客搭建' }, 
                     { title: 'VuePress学习笔记', path: '/blog/前端/VuePress学习笔记' }, 
+                    { title: '自动化部署', path: '/blog/前端/自动化部署' }, 
                 ],
             }
         ],
